@@ -1,0 +1,94 @@
+{
+    "friends": [
+      {
+        "id": "paul",
+        "name": "保羅",
+        "introduction": "大家好，我是保羅~"
+      },
+      {
+        "id": "jake",
+        "name": "傑克",
+        "introduction": "大家好，我是傑克~"
+      },
+      {
+        "id": "jason",
+        "name": "傑森",
+        "introduction": "大家好，我是傑森~"
+      }
+    ],
+    "chat": [
+      {
+        "id": "paul",
+        "message": [
+            {
+            "user_id": "jessica",
+            "content": "保羅"
+            },
+            {
+            "user_id": "jessica",
+            "content": "你好, 我是潔西卡"
+            },
+            {
+            "user_id": "jessica",
+            "content": "我喜歡吃的食物有"
+            },
+            {
+            "user_id": "jessica",
+            "content": "各種巧克力口味的甜點"
+            }
+        ]
+      },
+      {
+        "id": "jake",
+        "message": [
+            {
+            "user_id": "jessica",
+            "content": "傑克"
+            },
+            {
+            "user_id": "jessica",
+            "content": "你好，我是潔西卡"
+            },
+            {
+            "user_id": "jessica",
+            "content": "我喜歡做的運動為"
+            },
+            {
+            "user_id": "jessica",
+            "content": "游泳,跑步"
+            }
+        ]
+      },
+      {
+        "id": "jason",
+        "message": [
+            {
+            "user_id": "jessica",
+            "content": "傑森"
+            },
+            {
+            "user_id": "jessica",
+            "content": "你好，我是潔西卡"
+            },
+            {
+            "user_id": "jessica",
+            "content": "我喜歡的動物為"
+            },
+            {
+            "user_id": "jessica",
+            "content": "貓,狗"
+            }
+        ]
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
